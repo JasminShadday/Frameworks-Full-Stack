@@ -1,7 +1,7 @@
 
         _O_|__|_X_
         __|_O_|__
-         X|  |
+          X|  | X
 
 X - Jasmin
 O - Gabriel
